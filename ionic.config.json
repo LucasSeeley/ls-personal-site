@@ -1,0 +1,7 @@
+{
+  "name": "ls-personal-site",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
